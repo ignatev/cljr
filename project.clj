@@ -1,8 +1,8 @@
 (defproject cljr "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
-  :license {:name "Eclipse Public License"
-            :url "http://www.eclipse.org/legal/epl-v10.html"}
+  :description "algorythms and data structures implementation"
+  :url "https://github.com/ignatev/cljr"
+  :license {:name "GPL v3"
+            :url "https://www.gnu.org/licenses/gpl.html"}
   :dependencies [[org.clojure/clojure "1.8.0"]]
   :main ^:skip-aot cljr.core
   :target-path "target/%s"
